@@ -1,6 +1,1 @@
-# پروکسی ساده APKCombo
-
-## نحوه اجرا:
-1. کدها را دانلود کنید
-2. در ترمینال: `node index.js`
-3. مرورگر: `http://localhost:3000/آدرس-مورد-نظر`
+download: https://dn.barato.ir/app/Sheypoor_7.0.4(BaraTo.iR).apk?src=dn.barato.ir
